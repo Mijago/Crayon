@@ -1,6 +1,4 @@
 # Privacy Policy
-Crayon does not collect any type of information, except in the case of internal errors. 
-Every text you send to Crayon via the slash commands is used for the search command and not saved in any kind of database.
-
-An exception of this happens when an internal error happens. 
-Crayon will log the text given to it, but not who sent it.
+- Crayon does not receive any messages besides its own slash commands.
+- Crayon may occasionally log the usage of an command in a debugging-log-channel. This happens for example after an update to see how a new command performs and if results are displayed correctly.
+- If an internal error occurs, Crayon will log the text given to it, but not who sent it.
