@@ -1,1 +1,27 @@
+# Name of website
+title: Crayon by Mijago
+
+# Your name to show in the footer
+author: Mijago
+
+avatar: "/crayon.png"
+round-avatar: true
+
+social-network-links:
+  github: mijago
+  twitter: MijagoCoding
+  discord: invite/7eFjeVbz2V
+
+
 theme: jekyll-theme-midnight
+
+navbar-links:
+  Crayon:
+    - About Crayon: "index"
+    - Terms of Service: "TOS"
+    - Privacy Policy: "PRIVACY"
+    - Get Crayon: "http://bot.d2armorpicker.com"
+  Related:
+    - LinkTree: "https://linktr.ee/mijago"
+    - D2ArmorPicker: "https://d2armorpicker.com"
+    - Discord Server: "http://discord.d2armorpicker.com"
