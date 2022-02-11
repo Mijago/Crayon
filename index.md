@@ -44,3 +44,7 @@ These are self explanatory. Most of them are already in Charlemagne, but hey, wh
 ![image](https://user-images.githubusercontent.com/3903469/149002235-35004711-1177-4113-9315-17d6a37a3bbd.png)
 ![image](https://user-images.githubusercontent.com/3903469/149002321-926142fc-4c65-4585-905c-1f8cdeffc5d5.png)
 
+
+# Known Issues
+* For some users, when you add Crayon to your server, he does not show any emotes. In this case the `Everyone` role needs the `Use external Emotes` permission in the channels where you want to use him. *This is a Discord-Library-Limitation and I am looking for a way to circumvent it.*
+* Crayon may need the `Manage Messages` permission to change his own messages in some weird permission-constellations.
