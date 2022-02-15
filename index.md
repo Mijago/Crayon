@@ -28,7 +28,8 @@ By using `/triumph [NAME]` you can easily search for any triumph you want.
 
 ## Guardian-Search
 With `/guardian [NAME#1234]` you can easily lookup the stats of guardians. It gives you many useful links, specifically for this user!
-![image](https://user-images.githubusercontent.com/3903469/151126171-ed76b95f-ab91-4dd1-a3a4-1b9e65a1f9e4.png)
+![image](https://user-images.githubusercontent.com/3903469/154049255-26da958e-c565-4895-b122-683a295a35a8.png)
+
 
 Also, in case it can not find the user, it will give you a handsome dropdown menu:
 ![image](https://user-images.githubusercontent.com/3903469/151126286-ff268a26-3668-4e6a-a1d1-88cc11800bad.png)
