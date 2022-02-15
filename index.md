@@ -20,7 +20,8 @@ By using `/item [NAME]` you can easily search for any item you want.
 Crayon recognizes any Destiny 2 item and shows you it's description, perks and other valuable information.
 For cosmetics it will automatically display a large preview.
 
-![image](https://user-images.githubusercontent.com/3903469/149001831-160b2e88-e906-4095-9bf3-5591bf399215.png) ![image](https://user-images.githubusercontent.com/3903469/149001867-688f0464-2655-43cb-addb-925263730945.png)
+![image](https://user-images.githubusercontent.com/3903469/149001831-160b2e88-e906-4095-9bf3-5591bf399215.png) ![image](https://user-images.githubusercontent.com/3903469/154049374-0aec4ca1-10b7-4818-ba18-8adc2faec170.png)
+
 
 ## Triumph-Search
 By using `/triumph [NAME]` you can easily search for any triumph you want.
